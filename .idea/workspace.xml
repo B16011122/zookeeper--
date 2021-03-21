@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44c7cc67-9be8-4236-bfad-c6e93b900be7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/job.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/src/main/java/com/study/job/JobApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/src/main/java/com/study/job/conf/CuratorZookeeperClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/src/main/java/com/study/job/service/NodeCacheService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/src/main/java/com/study/job/service/TreeCacheService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/src/main/java/com/study/job/service/ZookeeperListenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/src/test/java/com/study/job/JobApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/target/classes/com/study/job/JobApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/target/classes/com/study/job/conf/CuratorZookeeperClientConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/target/classes/com/study/job/service/NodeCacheService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/target/classes/com/study/job/service/NodeCacheService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/target/classes/com/study/job/service/TreeCacheService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/target/classes/com/study/job/service/TreeCacheService$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/target/classes/com/study/job/service/TreeCacheService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/target/classes/com/study/job/service/ZookeeperListenService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job/target/classes/com/study/job/service/ZookeeperListenService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/study/service/ServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/study/service/config/CuratorZookeeperClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/study/service/service/ZookeeperService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/resources/application-DEV.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/test/java/com/study/service/ServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/classes/application-DEV.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/classes/com/study/service/ServiceApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/classes/com/study/service/config/CuratorZookeeperClientConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/classes/com/study/service/service/ZookeeperService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/classes/com/study/service/service/ZookeeperService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mCQEFq7LVEn0ZYZQFaeklPFyym" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEAProject\practice\service\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.study.job.conf" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JobApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="job" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.job.JobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.service.ServiceApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=DEV" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.JobApplication" />
+      <item itemvalue="Spring Boot.ServiceApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\陈全斌\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44c7cc67-9be8-4236-bfad-c6e93b900be7" name="Default Changelist" comment="" />
+      <created>1608994981536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608994981536</updated>
+      <workItem from="1608994982960" duration="2732000" />
+      <workItem from="1609000143099" duration="1458000" />
+      <workItem from="1609001696384" duration="599000" />
+      <workItem from="1609082689555" duration="278000" />
+      <workItem from="1609083010980" duration="1246000" />
+      <workItem from="1611068277071" duration="3515000" />
+      <workItem from="1611141031659" duration="10422000" />
+      <workItem from="1612447440245" duration="2527000" />
+      <workItem from="1616290693378" duration="586000" />
+      <workItem from="1616291336959" duration="141000" />
+      <workItem from="1616291539888" duration="2216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
